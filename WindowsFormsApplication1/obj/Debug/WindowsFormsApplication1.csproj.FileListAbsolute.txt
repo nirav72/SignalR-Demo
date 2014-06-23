@@ -1,0 +1,13 @@
+C:\dev\Trash\SignalRDemo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\dev\Trash\SignalRDemo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\dev\Trash\SignalRDemo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\dev\Trash\SignalRDemo\WindowsFormsApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\dev\Trash\SignalRDemo\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\dev\Trash\SignalRDemo\WindowsFormsApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\dev\Trash\SignalRDemo\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\dev\Trash\SignalRDemo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\dev\Trash\SignalRDemo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\dev\Trash\SignalRDemo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\dev\Trash\SignalRDemo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\dev\Trash\SignalRDemo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\dev\Trash\SignalRDemo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

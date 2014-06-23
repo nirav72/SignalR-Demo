@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-12" style="margin-top: 24px;">
+        <h2 data-bind="text: msg"></h2>
+        <button class="btn" data-bind="click: broadcast">Say Hello</button>
+        <button class="btn" data-bind="click: getTicket">Request new Ticket</button>
+        <button class="btn" data-bind="click: sendTicket">Send Ticket</button>
+    </div>
+</div>
+<script src="~/ViewModels/Index.js"></script>

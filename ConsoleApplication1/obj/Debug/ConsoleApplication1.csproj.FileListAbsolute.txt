@@ -1,0 +1,9 @@
+C:\dev\Trash\SignalRDemo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\dev\Trash\SignalRDemo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\dev\Trash\SignalRDemo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\dev\Trash\SignalRDemo\ConsoleApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\dev\Trash\SignalRDemo\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\dev\Trash\SignalRDemo\ConsoleApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\dev\Trash\SignalRDemo\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\dev\Trash\SignalRDemo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\dev\Trash\SignalRDemo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
